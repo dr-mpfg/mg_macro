@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2025-09-23T11:53:54.714+01:00"}
+{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2025-09-23T12:19:33.074+01:00"}
 ---
 
 # Dr. Matteo Giordano 
@@ -19,7 +19,7 @@ __[LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) ~ [ORCiD](ht
 
 
 <br />
-I’m Matteo, a defence economist specializing in the macroeconomic and financial dimensions of national security and defense policy. My work examines how defense spending, security investments, and geopolitical dynamics interact with economic growth, labor markets, and fiscal stability.
+
 
 I am an economist and political economist, currently forking for the [UKDSC](https://www.ukdsc.org) as a defence economist.
 I am also an Associate Researcher at the Global Climate Forum in Berlin, where I contribute to the project on the [OBFA-TRANSFORM Project](https://obfa-transform.eu).
@@ -28,9 +28,9 @@ Previously, I was a Lecturer in Economics in the Department of Economics at SOAS
 My main areas of interest span from War Economics to Financial and Monetary Macroeconomics, including European Political Economy, Financialisation, International Economics, and History of Economic Thought. I am most fascinated by monetary system and financial architectures.
 I am especially keen on working on monetary unions, of which I tend to focus on the Eurozone and the CFA Franc.
 
-My current projects are my research on Monetary and Financial Subordination in the EMU, a modelling of financial Macro-Structures and Debt Management, and the assessment of the Global Financial Crisis and the Eurozone Crisis through changing financial architectures. I primarily work with time series and panel data.
+Outside of my professional -restricted- work, my current projects are my research on Monetary and Financial Subordination in the EMU, a modelling of financial Macro-Structures and Debt Management, and the assessment of the Global Financial Crisis and the Eurozone Crisis through changing financial architectures. I primarily work with time series and panel data.
 
-I am happy to consult or discuss any projects on pertinent topics.
+I welcome collaboration, discussion, and professional connections. You can [contact me](mailto:mg.macroeconomics@gmail.com), [download my CV](https://app.box.com/s/22zc5n2grmm6u1jvyzyshn42j699dcqw), or explore my research projects and publications through the links above.
 
 I am a member of the European Research Network on Economic and Social Policy (EReNSEP) and of the Young Scholars Initiative (YSI, of INET).
 

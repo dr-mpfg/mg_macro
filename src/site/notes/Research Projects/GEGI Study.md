@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2023-12-16T12:58:59.084+00:00"}
+{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2025-09-23T12:24:29.043+01:00"}
 ---
 
 
 # A GEGI Study Series: Transformation of the Eurozone Architecture, Crises and Institutional Change in the Offshore US-Dollar System 
 
-> by S. Murau, A.S. Goghie, M. Giordano, and L. Schulze, hosted by the Global Development Policy Center of Boston University
+> by S. Murau, A.S. Goghie, M. Giordano, and Reimer, F., hosted by the Global Development Policy Center of Boston University
 
 
 ![GEGIStudy.png|300](/img/user/Attachments/GEGIStudy.png)
