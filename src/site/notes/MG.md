@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2025-09-23T12:19:33.074+01:00"}
+{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2025-10-10T23:06:37.887+01:00"}
 ---
 
 # Dr. Matteo Giordano 
@@ -21,7 +21,7 @@ __[LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) ~ [ORCiD](ht
 <br />
 
 
-I am an economist and political economist, currently forking for the [UKDSC](https://www.ukdsc.org) as a defence economist.
+I am an economist and political economist, currently working for the [UKDSC](https://www.ukdsc.org) as a defence economist.
 I am also an Associate Researcher at the Global Climate Forum in Berlin, where I contribute to the project on the [OBFA-TRANSFORM Project](https://obfa-transform.eu).
 Previously, I was a Lecturer in Economics in the Department of Economics at SOAS University of London between.
 

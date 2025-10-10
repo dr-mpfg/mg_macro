@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2025-09-23T12:24:29.043+01:00"}
+{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2025-09-23T12:51:22.973+01:00"}
 ---
 
 
@@ -21,10 +21,13 @@ We argue that the contagion dynamics across private and public balance sheets of
 Drawing on primary and secondary sources as well as private and public sector data, we apply an analytical scheme that starts with on-balance-sheet contractions, followed by the activation of inbuilt elasticity provision mechanisms; where these fail, innovation occurs which can materialize via enhanced elasticity space, new instruments, or even new institutions.
 As a result, we provide a novel perspective on the process of financial integration in the EMU and derive hypotheses for a theory on the endogeneity of crisis-driven change in modern monetary architectures.
 
+> see: https://obfa-transform.eu/key-concepts/monetary-architecture
+
+
 <br />
+
 ## Presentations related to the GEGI Study  
-  
-  
+
 1. Murau, S., Goghie, A., and Giordano, M. (2023). "Encumbered Security: Conceptualising Vertical and Horizontal Repos in the Euro Area" (Methodological Paper)
 	- [Link 1](https://www.youtube.com/watch?v=NAsoo08rG9k&t=3004s)
 	- [Link 2](https://www.youtube.com/watch?v=odXAtl9A4bY)
