@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2025-09-23T12:51:22.973+01:00"}
+{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2025-11-12T11:56:32.150+00:00"}
 ---
 
 
@@ -22,6 +22,8 @@ Drawing on primary and secondary sources as well as private and public sector da
 As a result, we provide a novel perspective on the process of financial integration in the EMU and derive hypotheses for a theory on the endogeneity of crisis-driven change in modern monetary architectures.
 
 > see: https://obfa-transform.eu/key-concepts/monetary-architecture
+
+> see (and use) the online tool: https://monetary-architecture.com/
 
 
 <br />

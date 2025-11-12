@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/research-projects/","created":"2023-12-11T21:40:44.391+00:00","updated":"2023-12-12T22:40:22.904+00:00"}
+{"dg-publish":true,"permalink":"/research-projects/research-projects/","created":"2023-12-11T21:40:44.391+00:00","updated":"2025-11-12T11:56:10.303+00:00"}
 ---
 
 
@@ -30,3 +30,5 @@
 # GEGI Study
 
 > Mapping changes in the Eurozone [[Research Projects/GEGI Study\|monetary architecture and crises through balance sheets]]
+
+see the monetary architecture online tool: https://monetary-architecture.com/
