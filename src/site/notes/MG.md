@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2025-10-10T23:06:37.887+01:00"}
+{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2025-11-12T12:02:59.520+00:00"}
 ---
 
 # Dr. Matteo Giordano 
@@ -22,7 +22,7 @@ __[LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) ~ [ORCiD](ht
 
 
 I am an economist and political economist, currently working for the [UKDSC](https://www.ukdsc.org) as a defence economist.
-I am also an Associate Researcher at the Global Climate Forum in Berlin, where I contribute to the project on the [OBFA-TRANSFORM Project](https://obfa-transform.eu).
+I am also an Associate Researcher at the Global Climate Forum in Berlin, where I contribute to the project on the [OBFA-TRANSFORM Project](https://obfa-transform.eu) and to the building of the [Monetary Architecture Online Tool](https://monetary-architecture.com/).
 Previously, I was a Lecturer in Economics in the Department of Economics at SOAS University of London between.
 
 My main areas of interest span from War Economics to Financial and Monetary Macroeconomics, including European Political Economy, Financialisation, International Economics, and History of Economic Thought. I am most fascinated by monetary system and financial architectures.
