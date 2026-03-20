@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2025-11-12T12:02:59.520+00:00"}
+{"dg-publish":true,"permalink":"/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2026-03-20T12:47:19.477+00:00"}
 ---
 
 # Dr. Matteo Giordano 
 
 
-![MatteoGiordano_MG92.png|800](/img/user/Attachments/MatteoGiordano_MG92.png)
+
 
 > *Defence Macroeconomist and Political Economist* \
 > "[...] e va di buon animo, e sii il Griso. Che diavolo!"
