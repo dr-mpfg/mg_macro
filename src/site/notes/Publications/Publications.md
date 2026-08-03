@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/publications/publications/","created":"2026-08-03T20:05:16.711+01:00","updated":"2026-08-03T20:05:16.712+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/publications/publications/","created":"2026-08-03T20:05:16.711+01:00","updated":"2026-08-03T20:39:19.134+01:00","dg-note-properties":{}}
 ---
 
-
-# Publications
 
 > Peer-reviewed articles, working papers, and books across monetary economics, financial regulation, and European political economy. Full list also on [ORCiD](https://orcid.org/0000-0002-1588-6735).
 

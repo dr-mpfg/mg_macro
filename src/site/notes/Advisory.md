@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-08-03T20:03:54.220+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-08-03T20:38:36.317+01:00","dg-note-properties":{}}
 ---
 
 
@@ -48,4 +48,4 @@ I work with asset managers, policy institutions, government bodies, and industry
 
 <br />
 
-> All engagements are undertaken in a personal capacity and are independent of my role at the UKDSC. See the [[MG#Disclaimer\|disclaimer]].
+> All engagements are undertaken in a personal capacity and are independent of my role at the UKDSC. See the [[Dr. Matteo Giordano#Disclaimer\|disclaimer]].

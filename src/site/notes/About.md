@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-08-03T20:26:27.719+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-08-03T20:38:42.630+01:00","dg-note-properties":{}}
 ---
 
-
-# About
 
 > *Macro-Financial Strategist — Eurozone monetary systems, sovereign risk, and defence economics.*
 

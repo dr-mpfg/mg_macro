@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/defence-and-security-economics/","tags":["project","research","ongoing","defence"],"created":"2026-08-03T20:03:20.564+01:00","updated":"2026-08-03T20:03:20.564+01:00","dg-note-properties":{"tags":"project, research, ongoing, defence"}}
+{"dg-publish":true,"permalink":"/research-projects/defence-and-security-economics/","tags":["project","research","ongoing","defence"],"created":"2026-08-03T20:03:20.564+01:00","updated":"2026-08-03T20:39:07.168+01:00","dg-note-properties":{"tags":"project, research, ongoing, defence"}}
 ---
 
-
-# Defence & Security Economics
 
 > Modelling the economics of the defence-industrial base: industrial linkages, supply-chain resilience, and the fiscal sustainability of security spending.
 
@@ -45,4 +43,4 @@ The toolkit here mirrors my macro-financial work: Input-Output and gravity model
 
 <br />
 
-> **Note:** This page describes research themes and methods only. It does not represent, and should not be read as, the views, positions, or outputs of the UK Defence Solutions Centre, the Ministry of Defence, or any defence industry partner. See the [[MG#Disclaimer\|disclaimer]].
+> **Note:** This page describes research themes and methods only. It does not represent, and should not be read as, the views, positions, or outputs of the UK Defence Solutions Centre, the Ministry of Defence, or any defence industry partner. See the [[Dr. Matteo Giordano#Disclaimer\|disclaimer]].

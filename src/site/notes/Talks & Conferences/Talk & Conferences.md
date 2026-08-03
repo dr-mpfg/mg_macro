@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/talks-and-conferences/talk-and-conferences/","created":"2026-08-03T20:05:29.824+01:00","updated":"2026-08-03T20:05:29.824+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/talks-and-conferences/talk-and-conferences/","created":"2026-08-03T20:05:29.824+01:00","updated":"2026-08-03T20:38:48.779+01:00","dg-note-properties":{}}
 ---
 
-
-# Talks & Conferences
 
 > Selected presentations, invited talks, and workshops.
 

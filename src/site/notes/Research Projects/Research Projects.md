@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/research-projects/","created":"2026-08-03T20:04:27.528+01:00","updated":"2026-08-03T20:04:27.528+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/research-projects/research-projects/","created":"2026-08-03T20:04:27.528+01:00","updated":"2026-08-03T20:38:55.534+01:00","dg-note-properties":{}}
 ---
 
-
-# Research Projects
 
 > My work runs across three connected pillars, united by a balance-sheet and market-structure lens on systems under stress.
 
