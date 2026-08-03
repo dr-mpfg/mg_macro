@@ -1,10 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.142+00:00","updated":"2024-07-20T10:47:27.991+01:00"}
+{"dg-publish":true,"permalink":"/talks-and-conferences/talk-and-conferences/","created":"2026-08-03T20:05:29.824+01:00","updated":"2026-08-03T20:05:29.824+01:00","dg-note-properties":{}}
 ---
 
 
+# Talks & Conferences
+
+> Selected presentations, invited talks, and workshops.
+
+<br />
+
 # Presentations
 
+1. "Tiered Euro‑Monies: Perpetrating Monetary Hierarchies from the ECU to the Euro", *Euromemo Group 30th Annual Conference on Alternative Economic Policy in Europe*, Vienna, Austria, 12–14 September 2024.
 1. "Italian Integration in the Eurozone through the Lens of ‘Regional’ Financial Subordination", *Global Climate Forum Graduate Colloquium*, Berlin, Germany, 22 July 2024.
 2. "Encumbered Security? Vertical and Horizontal Repos in the Euro Area and Their Inherent Ambiguity'", *Association for Heterodox Economics*,  UWE, Bristol UK, July 2024.}
 3. “Forging Monetary Unification through Novation: The TARGET System and the Politics of Central Banking in Europe” (with S. Murau), *Money View Symposium*, Institute for New Economic Thinking, UK 02 February 2024.

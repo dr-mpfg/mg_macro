@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/macro-structures-and-dmo/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:47.185+00:00","updated":"2023-12-12T19:21:22.000+00:00"}
+{"dg-publish":true,"permalink":"/research-projects/macro-structures-and-dmo/","tags":["project","research","ongoing"],"created":"2026-08-03T20:05:46.861+01:00","updated":"2026-08-03T20:05:46.861+01:00","dg-note-properties":{"tags":"project, research, ongoing"}}
 ---
 
 
@@ -8,6 +8,7 @@
 
 ![Macro_Structure.png](/img/user/Attachments/Macro_Structure.png)
 
+> How the systemic architecture of financialised capitalism shapes the conduct of monetary policy and the management of sovereign debt.
 
 <br />
 <br />
@@ -25,3 +26,7 @@ See [[Publications/Publications#^105952\|Giordano and Pulieri (forthcoming)]]
 ## 3. Monetary Regime  
 Moving beyond the macroeconomic analysis of monetary policy by integrating policy decisions within the financial architecture and instruments to understand the postures of Central Banks.  
 See [[Publications/Publications#^aaa59c\|Giordano and Goghie (2023)]]
+
+<br />
+
+> Related: [[Research Projects/Balance-Sheet Modelling\|Balance-Sheet Modelling]] · [[Research Projects/Eurozone\|Eurozone]] · [[Research Projects/Defence & Security Economics\|Defence & Security Economics]]

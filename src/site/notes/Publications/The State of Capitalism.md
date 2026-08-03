@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publications/the-state-of-capitalism/","created":"2023-12-11T21:45:13.172+00:00","updated":"2023-12-11T23:35:07.536+00:00"}
+{"dg-publish":true,"permalink":"/publications/the-state-of-capitalism/","created":"2023-12-11T21:45:13.172+00:00","updated":"2023-12-11T23:35:07.536+00:00","dg-note-properties":{}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 > ==by the EReNSEP Writing Collective and Costas Lapavitsas==
 
-![StateofCapitalism.png|300](/img/user/Attachments/StateofCapitalism.png)
+![StateofCapitalism.png\|300](/img/user/Attachments/StateofCapitalism.png)
 
 The health emergency that broke out in 2020 is a landmark event in the development of capitalism, confirming the underlying change signalled by the Great Crisis of 2007-9. The Pandemic Crisis has catapulted the state to the centre of economic activity. However, a historic impasse is steadily becoming apparent at the core of the world economy  
   

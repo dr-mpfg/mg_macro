@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2025-11-12T11:56:32.150+00:00"}
+{"dg-publish":true,"permalink":"/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2025-11-12T11:56:32.150+00:00","dg-note-properties":{"tags":"project, research, ongoing"}}
 ---
 
 
@@ -8,7 +8,7 @@
 > by S. Murau, A.S. Goghie, M. Giordano, and Reimer, F., hosted by the Global Development Policy Center of Boston University
 
 
-![GEGIStudy.png|300](/img/user/Attachments/GEGIStudy.png)
+![GEGIStudy.png\|300](/img/user/Attachments/GEGIStudy.png)
 
 
 <br />
