@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dr-matteo-giordano/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2026-08-03T20:25:09.381+01:00","updated":"2026-08-03T20:38:38.804+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dr-matteo-giordano/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2026-08-03T20:25:09.381+01:00","updated":"2026-08-07T14:46:22.409+01:00","dg-note-properties":{}}
 ---
 
 
@@ -9,9 +9,9 @@ __[Contact](mailto:mg.macroeconomics@gmail.com) ~ [CV](https://app.box.com/s/18p
 
 <br />
 
-I analyse how monetary and financial systems behave under stress -- where pressure builds, who absorbs it, and how the plumbing actually clears. My work sits where central-bank operations, sovereign debt, market structure, and industrial strategy meet, and I translate that structural view into decision-relevant analysis for policy, financial, and strategic audiences.
+I analyse how monetary and financial systems behave under stress -- where pressure builds, who absorbs it, and how the plumbing actually clears. My work sits where central bank operations, sovereign debt, market structure, and industrial strategy meet, and I translate that structural view into decision-relevant analysis for policy, financial, and strategic audiences.
 
-I am a PhD-level macro-financial economist working as a defence economist for the [UKDSC](https://www.ukdsc.org) (Ministry of Defence ecosystem), and an Associate Researcher at the Global Climate Forum in Berlin, where I build balance-sheet models for the [OBFA-TRANSFORM Project](https://obfa-transform.eu) and the [Monetary Architecture Online Tool](https://monetary-architecture.com/). I was previously a Lecturer in Economics at SOAS University of London, where I completed my PhD on monetary subordination in the Eurozone. I am a dual Italian–British national.
+I am a PhD macro-financial economist working as a defence economist for the [UKDSC](https://www.ukdsc.org) (Ministry of Defence ecosystem), and an Associate Researcher at the Global Climate Forum in Berlin, where I build balance-sheet models for the [OBFA-TRANSFORM Project](https://obfa-transform.eu) and the [Monetary Architecture Online Tool](https://monetary-architecture.com/). I was previously a Lecturer in Economics at SOAS University of London, where I completed my PhD on monetary subordination in the Eurozone. I am a dual Italian–British national.
 
 <br />
 

@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-08-03T20:38:42.630+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-08-07T14:47:50.009+01:00","dg-note-properties":{}}
 ---
 
 
-> *Macro-Financial Strategist — Eurozone monetary systems, sovereign risk, and defence economics.*
+> *Macro-Financial Strategist -- Eurozone monetary systems, sovereign risk, and defence economics.*
 
 <br />
 
-I am a PhD-level macro-financial economist working at the intersection of monetary systems, sovereign risk, and industrial strategy. My research combines quantitative modelling — Input-Output, stock-flow-consistent, VAR, gravity, and balance-sheet models — with structural and institutional analysis, and a consistent focus on translating complex economic architecture into decision-relevant analysis.
+I am a PhD-level macro-financial economist working at the intersection of monetary systems, sovereign risk, and industrial strategy. My research combines quantitative modelling (Input-Output, stock-flow-consistent, VAR, gravity, and balance-sheet models) with structural and institutional analysis, and a consistent focus on translating complex economic architecture into decision-relevant analysis.
 
 I currently work as a **Defence Economist** for the [UKDSC](https://www.ukdsc.org) within the Ministry of Defence ecosystem, building economic models of the defence-industrial base and delivering strategic briefings to government and industry. I am also an **Associate Researcher** at the **Global Climate Forum** in Berlin (OBFA-TRANSFORM project), where I build balance-sheet models and helped deliver the [Monetary Architecture Online Tool](https://monetary-architecture.com/). I was a **Lecturer in Economics at SOAS University of London** (2023–2025), where I completed my PhD on monetary subordination in the Eurozone under Prof. Costas Lapavitsas.
 
@@ -20,20 +20,20 @@ I am a dual **Italian–British** national, based in London and open to relocati
 
 # Expertise
 
-**Macro domains** — Eurozone monetary policy, sovereign debt dynamics, fiscal-monetary interaction, financial fragmentation, geopolitical and defence economics, war finance, trade & capital-flow regimes.
+**Macro domains**: Eurozone monetary policy, sovereign debt dynamics, fiscal-monetary interaction, financial fragmentation, geopolitical and defence economics, war finance, trade & capital-flow regimes.
 
-**Quantitative methods** — Balance-sheet modelling, Input-Output modelling, stock-flow-consistent (SFC) modelling, gravity models, time-series forecasting, VAR/SVAR, panel data, causal inference, scenario analysis.
+**Quantitative methods**: Balance-sheet modelling, Input-Output modelling, stock-flow-consistent (SFC) modelling, gravity models, time-series forecasting, VAR/SVAR, panel data, causal inference, scenario analysis.
 
-**Tools & data** — R, Python, Excel, LaTeX, Bloomberg, Refinitiv Eikon, Fitch Connect, central-bank datasets, Janes defence intelligence.
+**Tools & data**: R (proficient), Python (learning), Excel, LaTeX, Bloomberg, Refinitiv Eikon, Fitch Connect, central-bank datasets, Janes defence intelligence.
 
 <br />
 <br />
 
 # Education
 
-- **PhD, Economics** — SOAS University of London (2020–2025). Thesis: *Monetary Subordination in the Eurozone: Fragmentation and tiering of markets and institutions.* Advisor: Prof. Costas Lapavitsas.
-- **MSc, International Political Economy** — LSE (2019–2020). Advisor: Prof. Jeffrey Chwieroth.
-- **BSc, Economics (Hons)** — SOAS University of London (2016–2019). Winner of the Undergraduate Prize in Economics.
+- **PhD, Economics**, SOAS University of London (2020–2025). Thesis: *Monetary Subordination in the Eurozone: Fragmentation and tiering of markets and institutions.* Advisor: Prof. Costas Lapavitsas.
+- **MSc, International Political Economy**, LSE (2019–2020). Advisor: Prof. Jeffrey Chwieroth.
+- **BSc, Economics (Hons)**, SOAS University of London (2016–2019). Winner of the Undergraduate Prize in Economics.
 
 <br />
 <br />

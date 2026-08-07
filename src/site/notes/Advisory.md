@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-08-03T20:38:36.317+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-08-07T14:46:52.650+01:00","dg-note-properties":{}}
 ---
 
 
 # Work with me
 
-> Applied macro-financial analysis and strategic intelligence — for institutions that need to understand how monetary systems, sovereign risk, and industrial structures behave under stress.
+> Applied macro-financial analysis and strategic intelligence for institutions that need to understand how monetary systems, sovereign risk, and industrial structures behave under stress.
 
 <br />
 
-I work with asset managers, policy institutions, government bodies, and industry on questions that sit below the surface of the standard sell-side or consultancy narrative: how the plumbing actually clears, where the structural pressure sits, and what that means for risk and strategy. My edge is depth — a PhD-level, balance-sheet-and-market-structure view of systems that most desks read only at the headline level.
+I work with asset managers, policy institutions, government bodies, and industry on questions that sit below the surface of the standard sell-side or consultancy narrative: how the plumbing actually clears, where the structural pressure sits, and what that means for risk and strategy. My edge is depth: a PhD-level, balance-sheet-and-market-structure view of systems that most desks read only at the headline level.
 
 <br />
 <br />
@@ -18,7 +18,7 @@ I work with asset managers, policy institutions, government bodies, and industry
 
 ## Eurozone & sovereign risk
 
-> Structural reads on core–periphery imbalances, TARGET2, collateral and repo dynamics, fragmentation risk, and monetary transmission — beyond spreads to the mechanisms that move them.
+> Structural reads on core–periphery imbalances, TARGET2, collateral and repo dynamics, fragmentation risk, and monetary transmission, beyond spreads to the mechanisms that move them.
 
 ## Balance-sheet & debt-management analysis
 
@@ -26,7 +26,7 @@ I work with asset managers, policy institutions, government bodies, and industry
 
 ## Defence & security economics
 
-> Economic analysis of the defence-industrial base — industrial linkages, supply-chain resilience, and the fiscal sustainability of security spending — using Input-Output, gravity, and scenario models.
+> Economic analysis of the defence-industrial base -- industrial linkages, supply-chain resilience, and the fiscal sustainability of security spending -- using Input-Output, gravity, and scenario models.
 
 ## Bespoke research & briefings
 
@@ -37,10 +37,10 @@ I work with asset managers, policy institutions, government bodies, and industry
 
 # Ways to engage
 
-- **Expert calls & consultations** — one-off conversations on Eurozone, sovereign risk, or defence economics.
-- **Commissioned research** — bespoke notes, models, or briefings to a defined question and deadline.
-- **Ongoing advisory** — a standing relationship for teams that need a recurring structural read.
-- **Speaking & workshops** — talks, seminars, and closed-door briefings for institutional and policy audiences.
+- **Expert calls & consultations**: one-off conversations on Eurozone, sovereign risk, or defence economics.
+- **Commissioned research**: bespoke notes, models, or briefings to a defined question and deadline.
+- **Ongoing advisory**: a standing relationship for teams that need a recurring structural read.
+- **Speaking & workshops**: talks, seminars, and closed-door briefings for institutional and policy audiences.
 
 <br />
 
