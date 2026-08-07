@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/dr-matteo-giordano/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2026-08-03T20:25:09.381+01:00","updated":"2026-08-07T14:46:22.409+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dr-matteo-giordano/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2026-08-03T20:25:09.381+01:00","updated":"2026-08-07T14:59:42.516+01:00","dg-note-properties":{}}
 ---
 
 
-> *Macro-Financial Strategist — Eurozone monetary systems, sovereign risk, and defence economics*
+> *Macro-Financial Strategist -- Eurozone monetary systems, sovereign risk, and defence economics*
 
 __[Contact](mailto:mg.macroeconomics@gmail.com) ~ [CV](https://app.box.com/s/18pq9r7919gcxvu23hk5v4wda4hq6dq4) ~ [LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) ~ [ORCiD](https://orcid.org/0000-0002-1588-6735)__
 
