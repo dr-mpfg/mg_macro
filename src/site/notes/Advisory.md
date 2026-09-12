@@ -1,51 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-08-07T14:46:52.650+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-09-11T22:46:26.946+01:00","dg-note-properties":{}}
 ---
 
 
 # Work with me
 
-> Applied macro-financial analysis and strategic intelligence for institutions that need to understand how monetary systems, sovereign risk, and industrial structures behave under stress.
+> Macro-financial strategy for institutions that need to know how a system clears before they need to know where it trades.
 
 <br />
 
-I work with asset managers, policy institutions, government bodies, and industry on questions that sit below the surface of the standard sell-side or consultancy narrative: how the plumbing actually clears, where the structural pressure sits, and what that means for risk and strategy. My edge is depth: a PhD-level, balance-sheet-and-market-structure view of systems that most desks read only at the headline level.
+I take commissioned work from asset managers, lenders, insurers, policy institutions and industry. The request is usually the same one my research answers: below the headline, what is the actual structure of claims here, where does the pressure sit, and what breaks first. I work in a personal capacity, independent of my employment.
 
 <br />
 <br />
 
 # Areas
 
-## Eurozone & sovereign risk
+## Macro-financial strategy
 
-> Structural reads on core–periphery imbalances, TARGET2, collateral and repo dynamics, fragmentation risk, and monetary transmission, beyond spreads to the mechanisms that move them.
+> Sovereign risk, monetary transmission, collateral and repo, fragmentation and the euro-area plumbing -- read at the level of the mechanism rather than the spread, and extending to what a security or industrial commitment costs to finance and sustain. Where the structural view comes from: [[Research Projects/Eurozone\|Eurozone]], [[Research Projects/Subordination\|Subordination]], [[Research Projects/Macro-Structures & DMO\|Macro-Structures & DMO]], [[Research Projects/Defence & Security Economics\|Defence & Security Economics]].
 
-## Balance-sheet & debt-management analysis
+## Shipping and trade finance
 
-> How central banks, debt management offices, and monetary regimes interact, and what that implies for issuance, liquidity, and stability. Bespoke balance-sheet mapping of monetary architectures.
+> Chartering and freight-rate exposure, tonne-mile and throughput demand, forwarder and carrier working capital, trade finance structures, and Greek and Mediterranean maritime economics. From inside the industry, and written up weekly in [[Cargo & Collateral\|Cargo & Collateral]].
 
-## Defence & security economics
+## Balance-sheet modelling
 
-> Economic analysis of the defence-industrial base -- industrial linkages, supply-chain resilience, and the fiscal sustainability of security spending -- using Input-Output, gravity, and scenario models.
-
-## Bespoke research & briefings
-
-> Commissioned notes, deep-dive analysis, expert-network calls, and presentations that translate complex economic structure into decision-relevant intelligence.
+> Bespoke modelling of a monetary architecture, a sector or a firm as interlocking balance sheets, where the question needs a structure rather than a forecast. Method: [[Research Projects/Balance-Sheet Modelling\|Balance-Sheet Modelling]].
 
 <br />
 <br />
 
 # Ways to engage
 
-- **Expert calls & consultations**: one-off conversations on Eurozone, sovereign risk, or defence economics.
-- **Commissioned research**: bespoke notes, models, or briefings to a defined question and deadline.
-- **Ongoing advisory**: a standing relationship for teams that need a recurring structural read.
-- **Speaking & workshops**: talks, seminars, and closed-door briefings for institutional and policy audiences.
+- **Expert calls and consultations** -- one-off conversations on a specific question.
+- **Commissioned research** -- a note, a model, or a briefing to a defined question and deadline.
+- **Ongoing advisory** -- a standing relationship for teams that need a recurring structural read.
+- **Speaking and workshops** -- talks, seminars, and closed-door briefings.
 
 <br />
 
-> To discuss a brief or an engagement, [contact me](mailto:mg.macroeconomics@gmail.com). Background and full track record: [[About\|About & CV]] · [[Publications/Publications\|Publications]].
+> To discuss a brief, [contact me](mailto:mg.macroeconomics@gmail.com). Track record: [[About\|About & CV]] · [[Publications/Publications\|Publications]].
 
 <br />
 
-> All engagements are undertaken in a personal capacity and are independent of my role at the UKDSC. See the [[Dr. Matteo Giordano#Disclaimer\|disclaimer]].
+> All engagements are undertaken in a personal capacity and are independent of any employer, past or present. Nothing produced under them is investment advice. See the [[Dr Matteo Giordano#Disclaimer\|disclaimer]].

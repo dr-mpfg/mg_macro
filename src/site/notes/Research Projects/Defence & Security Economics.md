@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/defence-and-security-economics/","tags":["project","research","ongoing","defence"],"created":"2026-08-03T20:03:20.564+01:00","updated":"2026-08-03T20:39:07.168+01:00","dg-note-properties":{"tags":"project, research, ongoing, defence"}}
+{"dg-publish":true,"permalink":"/research-projects/defence-and-security-economics/","tags":["project","research","ongoing","defence"],"created":"2026-08-03T20:03:20.564+01:00","updated":"2026-09-11T22:45:20.078+01:00","dg-note-properties":{"tags":"project, research, ongoing, defence"}}
 ---
 
 
@@ -7,9 +7,9 @@
 
 <br />
 
-A growing strand of my work applies the tools of macro-financial and structural economics to defence and security. The questions are the same ones that run through the rest of my research — how a system absorbs shocks, where dependencies concentrate, and what it costs to hold capability over time — asked of the defence-industrial base rather than the monetary system.
+This strand applies the tools of macro-financial and structural economics to defence and security. It was the substance of my work as a defence economist at the UKDSC to September 2026, and it continues as research. The questions are the same ones that run through the rest of my research — how a system absorbs shocks, where dependencies concentrate, and what it costs to hold capability over time — asked of the defence-industrial base rather than the monetary system.
 
-This work is applied and quantitative, built on economic modelling and sector-level analysis, and aimed at decision-relevant intelligence for policy and industry.
+This work is applied and quantitative, built on economic modelling and sector-level analysis, and aimed at decision-relevant intelligence for policy and industry. Reports I authored at the UKDSC contributed to shaping [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) policy on measuring defence-industrial productivity, evaluating programme viability, assessing supply-chain resilience and vulnerability, and defining industrial readiness.
 
 <br />
 <br />
@@ -39,8 +39,8 @@ This work is applied and quantitative, built on economic modelling and sector-le
 
 The toolkit here mirrors my macro-financial work: Input-Output and gravity modelling, stock-flow-consistent and VAR frameworks, time-series and panel methods, and scenario analysis — combined with qualitative industrial assessment and stakeholder engagement.
 
-> Related applied and macro work: [[Research Projects/Macro-Structures & DMO\|Macro-Structures & DMO]] · [[Research Projects/Balance-Sheet Modelling\|Balance-Sheet Modelling]]
+> Related applied and macro work: [[Research Projects/Macro-Structures & DMO\|Macro-Structures & DMO]] · [[Research Projects/Balance-Sheet Modelling\|Balance-Sheet Modelling]] · [[Cargo & Collateral\|Cargo & Collateral]], where rearmament is read as a financing problem.
 
 <br />
 
-> **Note:** This page describes research themes and methods only. It does not represent, and should not be read as, the views, positions, or outputs of the UK Defence Solutions Centre, the Ministry of Defence, or any defence industry partner. See the [[Dr. Matteo Giordano#Disclaimer\|disclaimer]].
+> **Note:** This page describes research themes and methods only. It does not represent, and should not be read as, the views, positions, or outputs of the UK Defence Solutions Centre, the Ministry of Defence, or any defence industry partner. See the [[Dr Matteo Giordano#Disclaimer\|disclaimer]].

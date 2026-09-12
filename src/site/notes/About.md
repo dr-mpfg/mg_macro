@@ -1,58 +1,72 @@
 ---
-{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-08-07T14:47:50.009+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-09-11T22:45:20.061+01:00","dg-note-properties":{}}
 ---
 
 
-> *Macro-Financial Strategist -- Eurozone monetary systems, sovereign risk, and defence economics.*
+> *The record: training, positions held, methods, and where to find the full paper trail.*
 
 <br />
 
-I am a PhD-level macro-financial economist working at the intersection of monetary systems, sovereign risk, and industrial strategy. My research combines quantitative modelling (Input-Output, stock-flow-consistent, VAR, gravity, and balance-sheet models) with structural and institutional analysis, and a consistent focus on translating complex economic architecture into decision-relevant analysis.
-
-I currently work as a **Defence Economist** for the [UKDSC](https://www.ukdsc.org) within the Ministry of Defence ecosystem, building economic models of the defence-industrial base and delivering strategic briefings to government and industry. I am also an **Associate Researcher** at the **Global Climate Forum** in Berlin (OBFA-TRANSFORM project), where I build balance-sheet models and helped deliver the [Monetary Architecture Online Tool](https://monetary-architecture.com/). I was a **Lecturer in Economics at SOAS University of London** (2023–2025), where I completed my PhD on monetary subordination in the Eurozone under Prof. Costas Lapavitsas.
-
-I am a dual **Italian–British** national, based in London and open to relocation.
-
-> [Download my CV](https://app.box.com/s/18pq9r7919gcxvu23hk5v4wda4hq6dq4) · [Academic CV — full publications & teaching](https://app.box.com/s/mgfbjyrewx6zxsc6ow1i5185mtrgsagt) · [ORCiD](https://orcid.org/0000-0002-1588-6735) · [LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) · [Contact](mailto:mg.macroeconomics@gmail.com)
+The short version is on the [[Dr Matteo Giordano\|front page]]. This page is the detail.
 
 <br />
-<br />
 
-# Expertise
+# Positions
 
-**Macro domains**: Eurozone monetary policy, sovereign debt dynamics, fiscal-monetary interaction, financial fragmentation, geopolitical and defence economics, war finance, trade & capital-flow regimes.
+- **Macro strategist and financial analyst**, shipping industry, Greece (from October 2026). Pricing, working capital, and the credit structure of freight operations.
+- **Associate Researcher**, Global Climate Forum, Berlin (2023-). OBFA-TRANSFORM project; balance-sheet modelling, and delivery of the [Monetary Architecture Online Tool](https://monetary-architecture.com/).
+- **Defence economist**, [UKDSC](https://www.ukdsc.org), within the [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) ecosystem (to September 2026). Economic models of the defence-industrial base and strategic briefings to government and industry. Reports I authored contributed to shaping MoD policy on measuring defence-industrial productivity, evaluating programme viability, assessing supply-chain resilience and vulnerability, and defining industrial readiness.
+- **Lecturer in Economics**, SOAS University of London (2023-2025).
 
-**Quantitative methods**: Balance-sheet modelling, Input-Output modelling, stock-flow-consistent (SFC) modelling, gravity models, time-series forecasting, VAR/SVAR, panel data, causal inference, scenario analysis.
-
-**Tools & data**: R (proficient), Python (learning), Excel, LaTeX, Bloomberg, Refinitiv Eikon, Fitch Connect, central-bank datasets, Janes defence intelligence.
+> [Download my CV](https://app.box.com/s/18pq9r7919gcxvu23hk5v4wda4hq6dq4) · [Academic CV -- full publications & teaching](https://app.box.com/s/mgfbjyrewx6zxsc6ow1i5185mtrgsagt) · [ORCiD](https://orcid.org/0000-0002-1588-6735) · [LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) · [Contact](mailto:mg.macroeconomics@gmail.com)
 
 <br />
 <br />
 
 # Education
 
-- **PhD, Economics**, SOAS University of London (2020–2025). Thesis: *Monetary Subordination in the Eurozone: Fragmentation and tiering of markets and institutions.* Advisor: Prof. Costas Lapavitsas.
-- **MSc, International Political Economy**, LSE (2019–2020). Advisor: Prof. Jeffrey Chwieroth.
-- **BSc, Economics (Hons)**, SOAS University of London (2016–2019). Winner of the Undergraduate Prize in Economics.
+- **PhD, Economics**, SOAS University of London (2020-2025). Thesis: *Monetary Subordination in the Eurozone: Fragmentation and tiering of markets and institutions.* Advisor: Prof. Costas Lapavitsas.
+- **MSc, International Political Economy**, LSE (2019-2020). Advisor: Prof. Jeffrey Chwieroth.
+- **BSc, Economics (Hons)**, SOAS University of London (2016-2019). Winner of the Undergraduate Prize in Economics.
 
 <br />
 <br />
 
-# Selected recognition
+# Published record
 
-- Outstanding Teaching Award, SOAS University of London (2024–25)
-- Nomination, Postgraduate Research Supervisor of the Year, SOAS (2024–25)
-- Best Use of Technology Enhanced Learning Award, SOAS (2023–24)
+Peer-reviewed articles in *Socio-Economic Review*, the *Journal of Financial Regulation*, *Competition & Change*, *European Law Open*, the *Review of Evolutionary Political Economy* and *The Japanese Political Economy*, with further papers under review, including at the *Cambridge Journal of Economics*. Alongside these: a PhD thesis, a GEGI study for the Boston University Global Development Policy Center, a contribution to *The State of Capitalism* (Verso), and working papers with SOAS, SSRN and SocArXiv.
+
+> Everything, in full: [[Publications/Publications\|Publications]] · [[Talks & Conferences/Talk & Conferences\|Talks & Conferences]]
+
+<br />
+<br />
+
+# Methods
+
+**Modelling**: balance-sheet mapping, stock-flow-consistent accounting, Input-Output, gravity models, VAR/SVAR, panel and time-series methods, scenario analysis.
+
+**Applied to**: euro-area monetary policy and transmission, sovereign debt dynamics, fiscal-monetary interaction, financial fragmentation, shipping and trade finance, defence and war finance, trade and capital-flow regimes.
+
+**Tools**: R and Python for macro-financial modelling and data work; Excel; LaTeX; Bloomberg, Refinitiv Eikon, Fitch Connect, central-bank datasets, Janes defence intelligence.
+
+<br />
+<br />
+
+# Recognition
+
+- Outstanding Teaching Award, SOAS University of London (2024-25)
+- Nomination, Postgraduate Research Supervisor of the Year, SOAS (2024-25)
+- Best Use of Technology Enhanced Learning Award, SOAS (2023-24)
 - Research Associate funding, OBFA-Transformation project (Deutsche Forschungsgemeinschaft & GCF Berlin)
 - Scholarship, Minsky Summer Seminar, Levy Economics Institute of Bard College (2018)
 
 <br />
 <br />
 
-# Languages
+# Personal
 
-Italian (native) · English (bilingual) · French (advanced) · Spanish (beginner)
+Dual Italian-British national, based in Greece. Italian (native) · English (bilingual) · French (advanced) · Greek and Spanish (beginner).
 
 <br />
 
-> Explore my [[Research Projects/Research Projects\|Research Projects]] · [[Publications/Publications\|Publications]] · [[Talks & Conferences/Talk & Conferences\|Talks & Conferences]] · [[Advisory\|Work with me]]
+> Where the work lives: [[Cargo & Collateral\|Cargo & Collateral]] · [[Advisory\|Work with me]] · [[Research Projects/Research Projects\|Research Projects]]
