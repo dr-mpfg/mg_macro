@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cargo-and-collateral/","tags":["writing","shipping","macro-finance"],"created":"2026-09-11T22:01:38.370+01:00","updated":"2026-09-13T13:38:24.088+01:00","dg-note-properties":{"tags":"writing, shipping, macro-finance"}}
+{"dg-publish":true,"permalink":"/cargo-and-collateral/","tags":["writing","shipping","macro-finance"],"created":"2026-09-11T22:01:38.370+01:00","updated":"2026-09-25T13:30:41.718+01:00","dg-note-properties":{"tags":"writing, shipping, macro-finance"}}
 ---
 
 
@@ -19,5 +19,11 @@ Forwarder and carrier working capital, chartering and freight rates, chokepoint 
 
 <br />
 <br />
+
+# Recent entries
+
+1. **[Paying for delivery is not the same as funding capacity](https://cargoandcollateral.substack.com/p/state-pays-for-delivery-not-capacity)** -- *23 September 2026*
+
+> [Full archive on Substack](https://cargoandcollateral.substack.com/archive)
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-projects/defence-and-security-economics/","tags":["project","research","ongoing","defence"],"created":"2026-08-03T20:03:20.564+01:00","updated":"2026-09-13T10:58:45.383+01:00","dg-note-properties":{"tags":"project, research, ongoing, defence"}}
+{"dg-publish":true,"permalink":"/research-projects/defence-and-security-economics/","tags":["project","research","ongoing","defence"],"created":"2026-08-03T20:03:20.564+01:00","updated":"2026-09-25T13:30:41.718+01:00","dg-note-properties":{"tags":"project, research, ongoing, defence"}}
 ---
 
 
@@ -9,7 +9,7 @@
 
 Capability is downstream of industrial structure and financing. This strand applies macro-financial and structural economics to defence, asking the questions that run through the rest of my research -- how a system absorbs shocks, where dependencies concentrate, what it costs to hold capability over time -- of the defence-industrial base rather than the monetary system.
 
-It was the substance of my work as a defence economist at the UKDSC to September 2026, and it continues as research: applied, quantitative, and aimed at decision-relevant intelligence for policy and industry. Reports I authored at the UKDSC contributed to shaping [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) policy on measuring defence-industrial productivity, evaluating programme viability, assessing supply-chain resilience and vulnerability, and defining industrial readiness.
+It was the substance of my work as a defence economist at the UKDSC to September 2026. It continues commercially at [Garrison Sterling](https://garrisonsterling.com), the defence economics firm I co-founded and direct, and as research here: applied, quantitative, and aimed at decision-relevant intelligence for policy and industry. Reports I authored at the UKDSC contributed to shaping [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) policy on measuring defence-industrial productivity, evaluating programme viability, assessing supply-chain resilience and vulnerability, and defining industrial readiness.
 
 <br />
 <br />
@@ -45,4 +45,4 @@ The toolkit mirrors the macro-financial work: Input-Output and gravity modelling
 
 <br />
 
-> **Note:** This page describes research themes and methods only. It does not represent, and should not be read as, the views, positions, or outputs of the UK Defence Solutions Centre, the Ministry of Defence, or any defence industry partner. See the [[Dr Matteo Giordano#Disclaimer\|disclaimer]].
+> **Note:** This page describes research themes and methods only. It does not represent, and should not be read as, the views, positions, or outputs of the UK Defence Solutions Centre, the Ministry of Defence, Garrison Sterling, or any defence industry partner. See the [[Dr Matteo Giordano#Disclaimer\|disclaimer]].

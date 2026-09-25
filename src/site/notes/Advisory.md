@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-09-13T13:06:22.704+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/advisory/","created":"2026-08-03T20:03:54.219+01:00","updated":"2026-09-25T13:30:41.716+01:00","dg-note-properties":{}}
 ---
 
 
@@ -39,7 +39,7 @@ For questions that need a structure rather than a forecast. Bespoke modelling of
 - **Commissioned notes and models** -- a defined question, a defined deliverable, a fixed deadline.
 - **Speaking and workshops** -- talks, seminars and closed-door briefings.
 
-Defence-industrial and rearmament work is taken through a separate firm rather than under my own name. Contact me and I will route it.
+Anything where the exposure is defence -- defence-industrial, rearmament, or macro-financial work on the defence economy -- goes through [Garrison Sterling](https://garrisonsterling.com), the defence economics firm I co-founded and direct. Shipping, sovereign and monetary work is taken here, in a personal capacity.
 
 <br />
 
@@ -47,4 +47,4 @@ Defence-industrial and rearmament work is taken through a separate firm rather t
 
 <br />
 
-> All engagements are undertaken in a personal capacity and are independent of any employer, past or present. Nothing produced under them is investment advice. See the [[Dr Matteo Giordano#Disclaimer\|disclaimer]].
+> All engagements are undertaken in a personal capacity and are independent of any employer, past or present, and of Garrison Sterling. Nothing produced under them is investment advice. See the [[Dr Matteo Giordano#Disclaimer\|disclaimer]].

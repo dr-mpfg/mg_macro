@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-09-13T13:37:36.204+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/about/","created":"2026-08-03T20:25:11.073+01:00","updated":"2026-09-25T13:35:19.716+01:00","dg-note-properties":{}}
 ---
 
 
@@ -9,9 +9,9 @@
 
 # Positions
 
-- **Macro strategist and financial analyst**, shipping industry, Greece (from October 2026). Pricing, working capital, and the credit structure of freight operations.
+- **Co-founder and Director**, [Garrison Sterling](https://garrisonsterling.com) (2026-). Independent defence economics firm: a company-level data platform on the defence economy, with input-output and economic-impact models on top. Leads the modelling -- economic-impact models and the supplier-level metrics built on public spend and company records.
 - **Associate Researcher**, Global Climate Forum, Berlin (2023-). OBFA-TRANSFORM: balance-sheet modelling of the euro-area monetary architecture, and delivery of the public [Monetary Architecture Online Tool](https://monetary-architecture.com/).
-- **Senior Defence Economist**, [UKDSC](https://www.ukdsc.org), within the [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) ecosystem (to September 2026). Input-Output and scenario models of the defence-industrial base; strategic briefings to government and industry. Reports I authored contributed to shaping MoD policy on measuring defence-industrial productivity, evaluating programme viability, assessing supply-chain resilience and vulnerability, and defining industrial readiness.
+- **Senior Defence Economist**, [UKDSC](https://www.ukdsc.org), within the [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) ecosystem (2025-2026). Input-Output and scenario models of the defence-industrial base; strategic briefings to government and industry. Reports I authored contributed to shaping MoD policy on measuring defence-industrial productivity, evaluating programme viability, assessing supply-chain resilience and vulnerability, and defining industrial readiness.
 - **Lecturer in Economics**, SOAS University of London (2023-2025).
 
 > [Download my CV](https://app.box.com/s/18pq9r7919gcxvu23hk5v4wda4hq6dq4) · [Academic CV -- full publications & teaching](https://app.box.com/s/mgfbjyrewx6zxsc6ow1i5185mtrgsagt) · [ORCiD](https://orcid.org/0000-0002-1588-6735) · [LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) · [Contact](mailto:mg.macroeconomics@gmail.com)
